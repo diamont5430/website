@@ -2,7 +2,7 @@
 layout: '../layouts/Layout.astro'
 ---
 
-# Dzień zły
+# Dzień
 To jest strona napisana w markdownie (pliku z rozszerzeniem .md).
 
 ## Możesz robić z tą stroną co chcesz:
